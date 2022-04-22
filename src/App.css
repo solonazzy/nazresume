@@ -12,6 +12,9 @@
   background-color:lightsteelblue;
 }
 
+.header {
+  color: crimson;
+}
 .container-fluid {
   background-color: darkgrey;
 

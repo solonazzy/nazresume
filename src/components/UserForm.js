@@ -5,7 +5,7 @@ import '../App.css';
 import PersonalDetails from './PersonalDetails';
 import Experience from './Experience';
 import Education from './Education';
-import Success from './Success';
+//import Success from './Success';
 import Objectives from './Objectives';
 
 const UserForm = () => {
@@ -22,24 +22,19 @@ const UserForm = () => {
                 <Objectives/>
 
             </div>
-        
+
+            <br />
             
             <div className="container-fluid">
                 <Experience/>
             </div>
             <br />
             
-            <div className="container-fluid col-lg-8 mx-auto text-center">
+            <div className="container-fluid ">
 
                 <Education/>
             </div>
             <br />
-            
-
-            <div className="container-fluid col-lg-8 mx-auto text-center">
-
-                <Success />
-            </div>
             
         </div>
 
