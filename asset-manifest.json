@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nazresume/static/css/main.98a5c4ae.css",
+    "main.js": "/nazresume/static/js/main.e8edab73.js",
+    "static/media/bootstrap-icons.woff?": "/nazresume/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/nazresume/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/muyiwa.jpg": "/nazresume/static/media/muyiwa.c9027cbb5c48e7cf0bba.jpg",
+    "index.html": "/nazresume/index.html",
+    "main.98a5c4ae.css.map": "/nazresume/static/css/main.98a5c4ae.css.map",
+    "main.e8edab73.js.map": "/nazresume/static/js/main.e8edab73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a5c4ae.css",
+    "static/js/main.e8edab73.js"
+  ]
+}
