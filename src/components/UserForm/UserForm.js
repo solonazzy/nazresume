@@ -1,19 +1,20 @@
 import React from 'react';
 //import ReactDOM from 'react-dom';
 import '../App.css';
+import './UserForm.css';
 
-import PersonalDetails from './PersonalDetails';
-import Experience from './Experience';
-import Education from './Education';
+import PersonalDetails from '../PersnoalDetails/PersonalDetails';
+import Experience from '../Experience/Experience';
+import Education from '../Education/Education';
 //import Success from './Success';
-import Objectives from './Objectives';
+import Objectives from '../Objectives/Objectives';
 
 const UserForm = () => {
 
     return (
         <div className="col">
 
-            <div className="container">
+            <div className="container-fluid">
                 <PersonalDetails/>
             </div>
             <br />
